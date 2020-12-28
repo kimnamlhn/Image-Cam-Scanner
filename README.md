@@ -6,3 +6,5 @@ nằm lẫn lộn trong khung nền khác nhau.
 + Nhiệm vụ của chương trình là phát hiện các mẫu tài liệu, cắt chúng rời khỏi
 khung nền và chỉnh hướng tài liệu nằm ngay ngắn.
 + Ví dụ minh họa
+
+![example](https://github.com/kimnamlhn/Cam-Scanner/blob/main/example.png?raw=true)
